@@ -1,0 +1,5 @@
+1- GLSL é uma linguagem usada para a programação de shaders na OpenGL. Obrigatórios no pipeline gráfico, os shaders de vértice, que posiciona os vértices em suas posições, e de fragmento, que define as cores das superfícies.
+
+2- Primitivas gráficas são os esquemas utilizados pela OpenGL para interpretar os vértices ao renderizar. Os vértices usados são armazenados em conjuntos chamados de Vertex Buffers.
+
+3- VBOs são os objetos usados para armazenar o array de vértices a serem processados.  VAOs são, assim como VBOs, objetos que armazenam o array de vértices, mas também as configurações de atributo da VBO. EBOs são buffers que armazenam os índices utilizado para desenhar os vértices na tela.
